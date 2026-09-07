@@ -66,7 +66,7 @@ The Moodle login URL and the DRM-X integration URL should use the same HTTPS dom
 ## Download
 
 - [Download the installable Moodle plugin ZIP (v1.6.1)](https://www.drm-x.com/download/drmx5-moodle-1.6.1.zip)
-- [Read the complete DRM-X 5.0 Moodle Plugin User Guide (PDF)](https://www.drm-x.com/download/DRM-X_5.0_Integration/DRM-X 5.0MoodleIntegrationPluginUserGuidev1.6.1.pdf)
+- [Read the complete DRM-X 5.0 Moodle Plugin User Guide (PDF)](https://www.drm-x.com/download/DRM-X_5.0_Integration/DRM-X5.0MoodleIntegrationPluginUserGuidev1.6.1.pdf)
 
 ## Installation
 
