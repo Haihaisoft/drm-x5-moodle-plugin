@@ -65,8 +65,8 @@ The Moodle login URL and the DRM-X integration URL should use the same HTTPS dom
 
 ## Download
 
-- [Download the installable Moodle plugin ZIP (v1.6.1)](./dist/drmx5-moodle-1.6.1.zip)
-- [Read the complete DRM-X 5.0 Moodle Plugin User Guide (PDF)](./docs/DRM-X-5.0-Moodle-Integration-Plugin-User-Guide-v1.6.1.pdf)
+- [Download the installable Moodle plugin ZIP (v1.6.1)](https://www.drm-x.com/download/drmx5-moodle-1.6.1.zip)
+- [Read the complete DRM-X 5.0 Moodle Plugin User Guide (PDF)](https://www.drm-x.com/download/DRM-X_5.0_Integration/DRM-X 5.0MoodleIntegrationPluginUserGuidev1.6.1.pdf)
 
 ## Installation
 
@@ -203,6 +203,8 @@ Always use HTTPS and protect `WebServiceAuthStr` as a secret. Do not publish rea
 
 **DRM-X 5.0 Moodle 加密视频集成插件**是一款 Moodle 文本过滤器插件，用于将 Moodle 登录状态、课程报名权限与 DRM-X 5.0 数字版权管理许可证结合起来。它适用于在线教育、付费课程、企业培训和会员视频，可帮助实现 Moodle 视频加密、LMS 课程内容保护、防止未授权传播、许可证吊销和用户水印等功能。
 
+[查看DRM-X 5.0 Moodle集成插件完整中文使用指南](https://www.drm-x.com/download/DRM-X_5.0_Integration_CN/DRM-X5.0Moodle集成插件使用指南v1.6.1.pdf)
+
 主要功能：
 
 - 用户必须登录 Moodle，并且有效加入 DRM-X 许可证模板指定的课程。
@@ -216,7 +218,7 @@ Always use HTTPS and protect `WebServiceAuthStr` as a secret. Do not publish rea
 
 快速部署：
 
-1. 下载并安装 [`drmx5-moodle-1.6.1.zip`](./dist/drmx5-moodle-1.6.1.zip)。
+1. 下载并安装 [`drmx5-moodle-1.6.1.zip`](https://www.drm-x.com/download/drmx5-moodle-1.6.1.zip)。
 2. 在 Moodle 的**管理过滤器**页面启用 **DRM-X 5.0 加密视频集成**。
 3. 填写 `AdminEmail`、`WebServiceAuthStr`、`GroupID`、服务区域和 RightsID 模式。
 4. 在 DRM-X 5.0 网站集成设置中填写：
@@ -234,7 +236,7 @@ Always use HTTPS and protect `WebServiceAuthStr` as a secret. Do not publish rea
 
 7. 使用普通学生账号测试已报名、未报名、吊销和锁定等情况。
 
-完整操作方法请阅读[英文 PDF 使用指南](./docs/DRM-X-5.0-Moodle-Integration-Plugin-User-Guide-v1.6.1.pdf)。
+
 
 ## Support and product information
 
